@@ -1,0 +1,6 @@
+#tableau ,th, td {
+    border: 1px solid;
+  }
+/* bordering the table */
+body {background-color:rgba(212, 223, 201, 0.286);}
+/* changing the background color*/
